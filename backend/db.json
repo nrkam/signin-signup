@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1783703764264",
+      "firstName": "Камила",
+      "lastName": "Нуруллина",
+      "email": "kamilanurullina@gmail.com",
+      "password": "$2b$10$EjM3p3eJHHyYUdehHrEwZuQvEImzzKkGImEon3mkiZkPqb8cPgksi"
+    },
+    {
+      "id": "1783703910037",
+      "firstName": "Камила",
+      "lastName": "Нуруллина",
+      "email": "amilanurullina@gmail.com",
+      "password": "$2b$10$0K7mAYi0kR7rh4rH/kP6ouHd7cGNO6WccAacED1r6NsBZvNavI4Eu"
+    },
+    {
+      "id": "1783704882975",
+      "firstName": "Камила",
+      "lastName": "Нуруллина",
+      "email": "a@gmail.com",
+      "password": "$2b$10$WgH/O.//EWFlroBJuMD7h.qTW60R2H57/s8LZ4VSTkLfM1jfKwM52"
+    }
+  ]
+}

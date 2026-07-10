@@ -1,0 +1,9 @@
+import { Navigate } from 'react-router-dom';
+import { useAppSelector } from '@/store/hooks';
+
+const ProtectedRoute = ({ children }: { children: JSX.Element }) => {
+  const isAuth = useAppSelector(state => state.auth.isAuthenticated);
+  return isAuth ? children : <Navigate to="/login" replace />;
+};
+
+export default ProtectedRoute;
