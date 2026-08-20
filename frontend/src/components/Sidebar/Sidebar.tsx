@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import logo from '@/assets/logo.png'; // ваш логотип
 
 const Sidebar: React.FC = () => {
