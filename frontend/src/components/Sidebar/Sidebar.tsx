@@ -4,7 +4,13 @@ import bg from '@/assets/pic.jpg';
 
 const Sidebar: React.FC = () => {
   return (
-    <div className="pic" style={{backgroundImage: 'url(${bg})', backgroundSize: 'cover'}}>
+    <div className="pic" style={{
+        backgroundImage: `url(${bg})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+        minHeight: '100vh',
+      }}>
       <div className="header">
         <img className="logo_icon" src={logo} alt="logo" />
         <span className="header_name">signup/signin</span>
