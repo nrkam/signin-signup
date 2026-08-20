@@ -3,7 +3,7 @@
 A learning fullstack project: registration and login forms with JWT authentication, a protected dashboard, and session persistence across page reloads.
 
 ### Demo
-![homepage](https://signin-signup-ohda.vercel.app/)
+[Open live site](https://signin-signup-ohda.vercel.app/)
 <img src="https://github.com/nrkam/signin-signup/blob/main/frontend/scrins/2026-08-20_13-43-28.png" width="500"> 
 
 ### Features
