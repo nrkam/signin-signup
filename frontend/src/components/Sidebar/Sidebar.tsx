@@ -1,9 +1,10 @@
 import React from 'react';
 import logo from '@/assets/logo.png'; // ваш логотип
+import bg from '@/assets/pic.jpg';
 
 const Sidebar: React.FC = () => {
   return (
-    <div className="pic">
+    <div className="pic" style={{backgroundImage: 'url(${bg})', backgroundSize: 'cover'}}>
       <div className="header">
         <img className="logo_icon" src={logo} alt="logo" />
         <span className="header_name">signup/signin</span>
