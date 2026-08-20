@@ -4,6 +4,7 @@ A learning fullstack project: registration and login forms with JWT authenticati
 
 ### Demo
 [Open live site](https://signin-signup-ohda.vercel.app/)
+homepage screen
 <img src="https://github.com/nrkam/signin-signup/blob/main/frontend/scrins/2026-08-20_13-43-28.png" width="500"> 
 
 ### Features
